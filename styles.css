@@ -1,3 +1,6 @@
+body {
+    background: lightgray;
+}
 .sub-item-link{
     text-decoration: none;
     color: purple;
@@ -9,9 +12,11 @@
 .sub-item-link:hover{
     color: red;
 }
+
 .sub-item-link:active{
     color: orange;
 }
+
 .sub-item-link:focus{
     color: orange;
     text-decoration: none;
