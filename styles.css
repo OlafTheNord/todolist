@@ -1,34 +1,12 @@
 body {
     background: #452b61;
+    margin: 0;
 }
 
-.todo-list{
-    text-align: center;
-}
-
-.sub-item-link{
-    text-decoration: none;
-    color: purple;
-}
-
-.sub-item-link:visited{
-    color: black;
-}
-.sub-item-link:hover{
-    color: red;
-}
-
-.sub-item-link:active{
-    color: orange;
-}
-
-.sub-item-link:focus{
-    color: orange;
-    text-decoration: none;
-    border: 1px solid orange;
-}
-
-.checkbox:checked{
-    color: purple;
-    font-size: 200px;
+header {
+    background: #3b2d4a;
+    height: 10vh;
+    padding: 0;
+    margin: 0;
+    color: antiquewhite;
 }
