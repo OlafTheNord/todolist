@@ -1,5 +1,5 @@
 body {
-    background: lightgray;
+    background: #452b61;
 }
 
 .todo-list{
@@ -26,4 +26,9 @@ body {
     color: orange;
     text-decoration: none;
     border: 1px solid orange;
+}
+
+.checkbox:checked{
+    color: purple;
+    font-size: 200px;
 }
